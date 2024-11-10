@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f7533258-df6d-406d-aec8-c28a47883ed8)# SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
+# SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
 **AIM:**
 
@@ -56,4 +56,5 @@ endmodule
 
 **RESULTS**
 
-Thus 
+Thus SERIAL-IN-SERIAL-OUT-SHIFTREGISTER is verified successfully
+
